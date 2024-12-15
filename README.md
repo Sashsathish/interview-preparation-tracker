@@ -2,7 +2,7 @@
 
 ## Data Structures and Algorithms
 
-- [ ] Introduction to Programming
+- [x] Introduction to Programming
   - - [ ] Types of languages
   - - [ ] Memory management
 - [ ] Flow of the program

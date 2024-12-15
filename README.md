@@ -3,28 +3,28 @@
 ## Data Structures and Algorithms
 
 - [x] Introduction to Programming
-  - - [ ] Types of languages
-  - - [ ] Memory management
-- [ ] Flow of the program
-  - - [ ] Flowcharts
-  - - [ ] Pseudocode
-- [ ] Introduction to Java
-  - - [ ] Introduction
-  - - [ ] How Java works
-  - - [ ] Setup Installation
-  - - [ ] Data types
-  - - [ ] Variables
-  - - [ ] Operators
-  - - [ ] Input and Output Statements
-  - - [ ] Control Statements
-    - - [ ] Conditional Statements
-        - - - [ ] if 
-        - - - [ ] if else
-        - - - [ ] Switch
-    - - [ ] Looping
-        - - - [ ] for
-        - - - [ ] while
-        - - - [ ] do while
+  - - [x] Types of languages
+  - - [x] Memory management
+- [x] Flow of the program
+  - - [x] Flowcharts
+  - - [x] Pseudocode
+- [x] Introduction to Java
+  - - [x] Introduction
+  - - [x] How Java works
+  - - [x] Setup Installation
+  - - [x] Data types
+  - - [x] Variables
+  - - [x] Operators
+  - - [x] Input and Output Statements
+  - - [x] Control Statements
+    - - [x] Conditional Statements
+        - - - [x] if 
+        - - - [x] if else
+        - - - [x] Switch
+    - - [x] Looping
+        - - - [x] for
+        - - - [x] while
+        - - - [x] do while
 - [ ] Functions
   - - [ ] Introduction
   - - [ ] Scoping in Java

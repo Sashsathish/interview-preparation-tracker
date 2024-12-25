@@ -19,7 +19,7 @@
 
 ## Binary Search in 1D Array
 
-01. [ ] [Binary Search](https://leetcode.com/problems/binary-search/)
+01. [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 02. [ ] Order Agnostic Binary Search
 03. [ ] [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
 04. [ ] [Ceiling of the Number](https://www.geeksforgeeks.org/problems/ceil-the-floor2802/0)

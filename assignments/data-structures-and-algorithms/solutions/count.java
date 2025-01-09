@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 import java.util.*;
 
@@ -21,7 +20,6 @@ public class count {
 
     }
 }
-=======
 
 import java.util.*;
 

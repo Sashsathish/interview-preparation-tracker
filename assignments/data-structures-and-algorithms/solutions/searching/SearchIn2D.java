@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 import java.util.Scanner;
 
@@ -41,6 +40,7 @@ public class SearchIn2D {
         return false;
     }
 }
+<<<<<<< HEAD
 =======
 
 import java.util.Scanner;
@@ -84,4 +84,4 @@ public class SearchIn2D {
         return false;
     }
 }
->>>>>>> 2e8a5e38569592babaca04435a1b5fac5f2c2302
+
